@@ -1,0 +1,4 @@
+google_cloud_vision_msgs/AnnotateImageRequest[] requests
+uint32 http_timeout
+---
+google_cloud_vision_msgs/AnnotateImageResponse[] responses
